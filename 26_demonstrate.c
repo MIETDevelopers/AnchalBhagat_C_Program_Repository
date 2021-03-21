@@ -4,9 +4,12 @@
   
 int main() {        //main function
     int x, y; 
-    printf("Enter Value of x "); 
+    printf("Enter Value of x ");
+
     scanf("%d", &x); 
-    printf("\nEnter Value of y "); 
+
+    printf("\nEnter Value of y ");
+     
     scanf("%d", &y); 
     
     //Here swapping of number occurs.
