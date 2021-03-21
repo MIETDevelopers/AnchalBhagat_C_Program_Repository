@@ -1,6 +1,6 @@
   
 // Fibonacci sequence using recursion
-// Anchal bhagat
+// Anchalbhagat
 // 21-03-2021
 
 #include<stdio.h> //Pre-Process directive to include input output header file.

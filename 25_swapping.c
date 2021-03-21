@@ -12,6 +12,7 @@ int main()
    int x, y;
  
    printf("Enter the value of x and y\n");
+   
    scanf("%d%d",&x,&y);
   // the values befor swapping
    printf("Before Swapping\nx = %d\ny = %d\n", x, y);
