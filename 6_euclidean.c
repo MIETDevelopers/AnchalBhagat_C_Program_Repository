@@ -4,7 +4,6 @@
 int main()  
 {  
     float x1, y1, x2, y2, distance;  
-  
     printf("Enter point 1 (x1, y1)\n");
 
     scanf("%f %f", &x1, &y1);//scanning the input  
