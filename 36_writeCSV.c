@@ -8,7 +8,7 @@
 
 int main() //Main function body starting
 { 
-    FILE* fp = fopen("C:\\cprograms\\AnchalBhagat_C_Program_Repository\\36_writeCSV.c "a+"); //File path.
+    FILE* fp = fopen("C:\\cprograms\\AnchalBhagat_C_Program_Repository\\36_WriteCSV.csv", "a+"); //File path.
 
     char name[50]; 
     int rollno, marks; 
